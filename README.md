@@ -4,12 +4,12 @@ Yapay zeka alanında çalışmalar yapmak isteyen kişilerin hem derin öğrenme
 projeler görebilmesi için aynı zamanda eklemeler yaparak geliştirilebilir projeler içeriği ile yeni beceriler kazandırmak
 hedef alınmıştır. 
 ## Önemli Açıklamalar
-Yapay zeka kendi içerisinde makine öğrenmesi ve derin öğrenme klasörü olarak ikiye ayrılmıştır. 
-Makine öğrenmesi için kullanılan datasetler proje içerisinde belirtilmiştir. 
-Kullanılan dataset ayrıca bulunmaktadır. 
-Kodlar ile ilgili gerekli açıklamalar kod içerisinde yer almaktadır. 
-Amaç doğrultusunda aynı dataset üzerinde farklı yöntemler uygulanmıştır. 
-Çalışmalar yapabileceğiniz farklı datasetleri burada bulabilirsiniz [Kaggle](https://www.kaggle.com/).
+* Yapay zeka kendi içerisinde makine öğrenmesi ve derin öğrenme klasörü olarak ikiye ayrılmıştır. 
+* Makine öğrenmesi için kullanılan datasetler proje içerisinde belirtilmiştir. 
+* Kullanılan dataset ayrıca bulunmaktadır. 
+* Kodlar ile ilgili gerekli açıklamalar kod içerisinde yer almaktadır. 
+* Amaç doğrultusunda aynı dataset üzerinde farklı yöntemler uygulanmıştır. 
+* Çalışmalar yapabileceğiniz farklı datasetleri [burada](https://www.kaggle.com/) bulabilirsiniz .
 
 ## Dataset
 [Bottle Dataseti](https://github.com/ErguluBozkurt/Yapay-Zeka-Projeleri/blob/main/Machine%20Learning/bottle.csv) <br>
