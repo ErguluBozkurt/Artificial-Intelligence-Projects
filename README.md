@@ -16,4 +16,5 @@ hedef alınmıştır.
 [Position Salaries Dataseti](https://github.com/ErguluBozkurt/Yapay-Zeka-Projeleri/blob/main/Machine%20Learning/position_salaries.csv) <br>
 [Baş Beyin Dataseti](https://github.com/ErguluBozkurt/Yapay-Zeka-Projeleri/blob/main/Machine%20Learning/bas_beyin.csv) <br>
 [Raisin Dataseti](https://github.com/ErguluBozkurt/Yapay-Zeka-Projeleri/blob/main/Machine%20Learning/Raisin_Dataset.xlsx) <br>
-
+[Titanik Dataseti](https://www.kaggle.com/competitions/titanic) <br>
+[Kalp Atakları Dataseti](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset) <br>
