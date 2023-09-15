@@ -34,7 +34,7 @@ thalach: maximum heart rate achieved
 target:  0 = less chance of heart attack, 1 = more chance of heart attack
 """
 
-data = pd.read_csv("Try\heart.csv")
+data = pd.read_csv("heart.csv")
 print(data.head())
 print(data.describe())
 print(data.info())
