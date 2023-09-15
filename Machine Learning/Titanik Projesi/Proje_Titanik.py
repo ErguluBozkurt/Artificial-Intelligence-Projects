@@ -29,12 +29,12 @@ Cabin : Kabin
 Embarked : Yolcuların bindikleri limanlar
 """
 
-train_data = pd.read_csv("Machine Learning/Try/train.csv")
+train_data = pd.read_csv("train.csv")
 print(train_data.head())
 print(train_data.describe())
 print(train_data.info())
 
-test_data = pd.read_csv("Machine Learning/Try/test.csv")
+test_data = pd.read_csv("test.csv")
 print(test_data.head())
 
 # Kategorik verilerin analizi
