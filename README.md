@@ -12,9 +12,10 @@ hedef alınmıştır.
 * Çalışmalar yapabileceğiniz farklı datasetleri [burada](https://www.kaggle.com/) bulabilirsiniz .
 
 ## Dataset
-[Bottle Dataseti](https://github.com/ErguluBozkurt/Yapay-Zeka-Projeleri/blob/main/Machine%20Learning/bottle.csv) <br>
-[Position Salaries Dataseti](https://github.com/ErguluBozkurt/Yapay-Zeka-Projeleri/blob/main/Machine%20Learning/position_salaries.csv) <br>
+[Bottle Dataset](https://github.com/ErguluBozkurt/Yapay-Zeka-Projeleri/blob/main/Machine%20Learning/bottle.csv) <br>
+[Position Salaries Dataset](https://github.com/ErguluBozkurt/Yapay-Zeka-Projeleri/blob/main/Machine%20Learning/position_salaries.csv) <br>
 [Baş Beyin Dataseti](https://github.com/ErguluBozkurt/Yapay-Zeka-Projeleri/blob/main/Machine%20Learning/bas_beyin.csv) <br>
-[Raisin Dataseti](https://github.com/ErguluBozkurt/Yapay-Zeka-Projeleri/blob/main/Machine%20Learning/Raisin_Dataset.xlsx) <br>
-[Titanik Dataseti](https://www.kaggle.com/competitions/titanic) <br>
+[Raisin Dataset](https://github.com/ErguluBozkurt/Yapay-Zeka-Projeleri/blob/main/Machine%20Learning/Raisin_Dataset.xlsx) <br>
+[Titanic Dataset](https://www.kaggle.com/competitions/titanic) <br>
 [Kalp Atakları Dataseti](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset) <br>
+[Car Dataset]([https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset](https://www.kaggle.com/datasets/athirags/car-data)https://www.kaggle.com/datasets/athirags/car-data) <br>
