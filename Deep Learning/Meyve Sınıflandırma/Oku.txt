@@ -1,0 +1,2 @@
+Hazır sinir ağı modeli klasör içerisinde yer almaktadır.
+Diilerseniz meyvelerin olduğu verisetini indirip eğitimini kendiniz yaptığınız sinir ağı üzerinden modeli kullanabilirsiniz.
