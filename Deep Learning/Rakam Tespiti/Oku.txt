@@ -1,0 +1,2 @@
+myData isminde klasör içerisinde her bir rakamın farklı
+resimlerinin olduğu klasörler yer alması gerekir. Eğitilmiş sinir ağının bir örneği bu proje içersinde yer alıyor. Dilerseniz sizde kendi verinizi oluşturup modelinizi eğitebilirsiniz.
