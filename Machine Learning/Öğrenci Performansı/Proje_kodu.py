@@ -8,7 +8,7 @@ from sklearn.svm import SVR
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.tree import DecisionTreeRegressor
 
-
+# Değişkenler
 """
 age                             : Yaş
 gender                          : Cinsiyet (sex)
