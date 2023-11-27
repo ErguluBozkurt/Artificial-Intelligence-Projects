@@ -19,4 +19,4 @@ hedef alınmıştır.
 [Titanic Dataset](https://www.kaggle.com/competitions/titanic) <br>
 [Kalp Atakları Dataseti](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset) <br>
 [Car Dataset](https://www.kaggle.com/datasets/athirags/car-data) <br>
-
+[Student Performance Dataset](https://www.kaggle.com/datasets/devansodariya/student-performance-data) <br>
