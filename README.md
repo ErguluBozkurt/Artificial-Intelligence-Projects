@@ -14,7 +14,7 @@ hedef alınmıştır.
 ## Dataset
 [Bottle Dataset](https://github.com/ErguluBozkurt/Yapay-Zeka-Projeleri/blob/main/Machine%20Learning/bottle.csv) <br>
 [Position Salaries Dataset](https://github.com/ErguluBozkurt/Yapay-Zeka-Projeleri/blob/main/Machine%20Learning/position_salaries.csv) <br>
-[Baş Beyin Dataseti](https://github.com/ErguluBozkurt/Yapay-Zeka-Projeleri/blob/main/Machine%20Learning/bas_beyin.csv) <br>
+[Baş Beyin Dataseti](https://github.com/ErguluBozkurt/Yapay-Zeka-Projeleri/blob/main/Machine%20Learning/Linner%20Regresyon/bas_beyin.csv) <br>
 [Raisin Dataset](https://www.kaggle.com/datasets/muratkokludataset/raisin-dataset) <br>
 [Titanic Dataset](https://www.kaggle.com/competitions/titanic) <br>
 [Kalp Atakları Dataseti](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset) <br>
