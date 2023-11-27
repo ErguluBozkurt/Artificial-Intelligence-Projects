@@ -18,6 +18,6 @@ hedef alınmıştır.
 [Kalp Atakları Dataseti](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset) <br>
 [Car Dataset](https://www.kaggle.com/datasets/athirags/car-data) <br>
 [Student Performance Dataset](https://www.kaggle.com/datasets/devansodariya/student-performance-data) <br>
-[Bottle Dataset](https://github.com/ErguluBozkurt/Yapay-Zeka-Projeleri/blob/main/Machine%20Learning/bottle.csv) <br>
+[Bottle Dataset](https://github.com/ErguluBozkurt/Yapay-Zeka-Projeleri/blob/main/Machine%20Learning/Polinomal%20Regresyon/bottle.csv) <br>
 [Position Salaries Dataset](https://github.com/ErguluBozkurt/Yapay-Zeka-Projeleri/blob/main/Machine%20Learning/SVC-SVM%20Algoritmas%C4%B1/position_salaries.csv) <br>
 [Baş Beyin Dataseti](https://github.com/ErguluBozkurt/Yapay-Zeka-Projeleri/blob/main/Machine%20Learning/Linner%20Regresyon/bas_beyin.csv) <br>
