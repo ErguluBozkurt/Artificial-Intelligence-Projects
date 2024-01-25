@@ -22,7 +22,7 @@ Age : Yaş
 
 """
 
-data = pd.read_csv("13. Diyabet Hastalığı Tahmini\diabetes.csv") 
+data = pd.read_csv("diabetes.csv") 
 
 def check(df):
     print("  Shape  ".center(50, "#"))
