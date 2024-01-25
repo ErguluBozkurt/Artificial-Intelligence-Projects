@@ -13,6 +13,7 @@ hedef alınmıştır.
 
 ## Dataset
 
+[Diabetes Dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database) <br>
 [Raisin Dataset](https://www.kaggle.com/datasets/muratkokludataset/raisin-dataset) <br>
 [Titanic Dataset](https://www.kaggle.com/competitions/titanic) <br>
 [Kalp Atakları Dataseti](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset) <br>
