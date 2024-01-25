@@ -8,7 +8,6 @@ hedef alınmıştır.
 * Makine öğrenmesi için kullanılan datasetler proje içerisinde belirtilmiştir. 
 * Kullanılan dataset ayrıca bulunmaktadır. 
 * Kodlar ile ilgili gerekli açıklamalar kod içerisinde yer almaktadır. 
-* Amaç doğrultusunda aynı dataset üzerinde farklı yöntemler uygulanmıştır. 
 * Çalışmalar yapabileceğiniz farklı datasetleri [burada](https://www.kaggle.com/) bulabilirsiniz .
 
 ## Dataset
